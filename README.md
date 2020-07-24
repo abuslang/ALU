@@ -1,5 +1,5 @@
 # ALU
-An Arithmetic Logic Unit (ALU) designed with a combination on structural and behavioral programming styles.
+An Arithmetic Logic Unit (ALU) designed with a combination of structural and behavioral programming styles.
 
 Takes two 16-bit inputs, performs an operation, and returns a 32-bit ouput.
 
